@@ -1,0 +1,6 @@
+{
+  "name": "Professional Cricket Portal and Analytics",
+  "description": "A high-performance professional cricket sports hub featuring live match tracking, AI-powered Situation Analyzer, Fantasy XI constructor, interactive 6-ball Super Over game, rankings, and deep-dive editorial sports news.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
